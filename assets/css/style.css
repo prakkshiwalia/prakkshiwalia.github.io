@@ -157,6 +157,34 @@ html { font-family: var(--ff-poppins); }
 body { background: var(--smoky-black); }
 
 
+/*-----------------------------------*\
+  #LIGHT THEME OVERRIDES
+\*-----------------------------------*/
+
+:root {
+  /* For a white background */
+  --smoky-black: #ffffff;
+  --eerie-black-1: #ffffff;
+  --eerie-black-2: #ffffff;
+  --white-1: #ffffff;
+  
+  /* For black text */
+  --white-2: #000000;
+  
+  /* Adjusting other “dark” colors to lighter shades */
+  --jet: #dddddd;
+  --onyx: #ffffff;
+  --light-gray: #f0f0f0;
+  --light-gray-70: rgba(240, 240, 240, 0.7);
+  
+  /* Optionally disable gradients (set to none) */
+  --bg-gradient-onyx: none;
+  --bg-gradient-jet: none;
+  --bg-gradient-yellow-1: none;
+  --bg-gradient-yellow-2: none;
+  --border-gradient-onyx: none;
+  --text-gradient-yellow: none;
+}
 
 
 
