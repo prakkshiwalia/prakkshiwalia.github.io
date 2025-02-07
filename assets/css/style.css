@@ -56,18 +56,21 @@
 
   /* solid */
 
-  --jet: hsl(116, 53%, 87%);
-  --onyx: hsl(240, 1%, 17%);
-  --eerie-black-1: hsl(240, 2%, 13%);
-  --eerie-black-2: hsl(240, 2%, 12%);
-  --smoky-black: hsl(0, 0%, 100%);
-  --white-1: hsl(0, 0%, 0%);
-  --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: hsl(45, 100%, 51%);
-  --vegas-gold: hsl(45, 54%, 58%);
-  --light-gray: hsl(0, 0%, 0%);
-  --light-gray-70: hsla(0, 0%, 84%, 0.7);
-  --bittersweet-shimmer: hsl(0, 43%, 51%);
+  /* Light Theme Palette */
+  
+--jet:                  hsl(116, 53%, 30%);  /* Was a light green in dark theme—now darker for use as an accent or text color */
+--onyx:                 hsl(240, 1%, 20%);   /* A dark cool gray for text */
+--eerie-black-1:        hsl(240, 2%, 18%);   /* Dark, used for headlines or emphasis */
+--eerie-black-2:        hsl(240, 2%, 16%);   /* Even darker for high-contrast elements */
+--smoky-black:          hsl(0, 0%, 0%);      /* Now pure black for primary text (swapped from its old “white” value) */
+--white-1:              hsl(0, 0%, 100%);    /* Pure white background */
+--white-2:              hsl(0, 0%, 98%);     /* Off-white background for subtle contrast */
+--orange-yellow-crayola: hsl(45, 100%, 40%);  /* A slightly deeper accent compared to the original */
+--vegas-gold:           hsl(45, 54%, 45%);   /* A more subdued gold accent for light backgrounds */
+--light-gray:           hsl(0, 0%, 84%);     /* A light gray, useful for borders or secondary backgrounds */
+--light-gray-70:        hsla(0, 0%, 20%, 0.7);/* A dark semi‐transparent gray (adjusted for contrast) */
+--bittersweet-shimmer:  hsl(0, 43%, 40%);    /* A deeper, muted red for accent details */
+
 
   /**
    * typography
