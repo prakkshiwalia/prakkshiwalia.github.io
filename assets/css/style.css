@@ -55,16 +55,16 @@
   );
 
   /* solid */
-  --jet: hsl(116, 53%, 87%);
-  --onyx: hsl(21, 87%, 57%);
+  --jet: hsl(337, 0%, 85%);
+  --onyx: hsl(21, 87%, 57%);  /* not sure yet */
   --eerie-black-1: hsl(240, 2%, 13%);
   --eerie-black-2: hsl(240, 2%, 12%);
   --smoky-black: hsl(0, 0%, 100%);
-  --white-1: hsl(0, 0%, 0%);
-  --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: hsl(45, 100%, 51%);
-  --vegas-gold: hsl(45, 54%, 58%);
-  --light-gray: hsl(0, 0%, 0%);
+  --white-1: hsl(0, 0%, 100%);
+  --white-2: hsl(0, 0%, 94%);
+  --orange-yellow-crayola: hsl(21, 87%, 57%);
+  --vegas-gold: hsl(21, 87%, 60%);
+  --light-gray: hsl(0, 0%, 11%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 
