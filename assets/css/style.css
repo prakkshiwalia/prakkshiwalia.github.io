@@ -65,7 +65,7 @@
   --orange-yellow-crayola: hsl(180, 31%, 50%); /* color of chosen tab*/
   --vegas-gold: hsl(174, 62%, 50%); /* color of year of experience somewhere*/
   --light-gray: hsl(0, 0%, 0%); /* color of details of experience somewhere*/
-  --light-gray-70: hsla(0, 0%, 84%, 0.7);
+  --light-gray-70: hsla(0, 0%, 0%);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 
   /**
