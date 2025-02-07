@@ -55,16 +55,16 @@
   );
 
   /* solid */
-  --jet: hsl(337, 0%, 85%);
-  --onyx: hsl(21, 87%, 57%);  /* not sure yet */
-  --eerie-black-1: hsl(240, 2%, 13%);
-  --eerie-black-2: hsl(240, 2%, 12%);
+  --jet: hsl(0.0, 0.0%, 93.3%);
+  --onyx: hsl(0.0, 0.0%, 84%);  /* not sure yet */
+  --eerie-black-1: hsl(0, 0%, 100%);
+  --eerie-black-2: hsl(0, 0%, 99%);
   --smoky-black: hsl(0, 0%, 100%);
-  --white-1: hsl(0, 0%, 100%);
-  --white-2: hsl(0, 0%, 94%);
-  --orange-yellow-crayola: hsl(21, 87%, 57%);
-  --vegas-gold: hsl(21, 87%, 60%);
-  --light-gray: hsl(0, 0%, 11%);
+  --white-1: hsl(0, 0%, 9%); /* text */
+  --white-2: hsl(0, 0%, 7%);
+  --orange-yellow-crayola: hsl(180, 31%, 50%); /* color of chosen tab*/
+  --vegas-gold: hsl(174, 62%, 50%); /* color of year of experience somewhere*/
+  --light-gray: hsl(0.0, 0.0%, 93.3%); /* color of details of experience somewhere*/
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 
