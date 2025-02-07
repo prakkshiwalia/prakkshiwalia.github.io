@@ -60,8 +60,8 @@
   --eerie-black-1: hsl(0, 0%, 100%);
   --eerie-black-2: hsl(0, 0%, 99%);
   --smoky-black: hsl(0, 0%, 100%);
-  --white-1: hsl(0, 0%, 9%); /* text */
-  --white-2: hsl(0, 0%, 7%);
+  --white-1: hsl(0, 0%, 2%); /* text */
+  --white-2: hsl(0, 0%, 2%);
   --orange-yellow-crayola: hsl(180, 31%, 50%); /* color of chosen tab*/
   --vegas-gold: hsl(174, 62%, 50%); /* color of year of experience somewhere*/
   --light-gray: hsl(0.0, 0.0%, 93.3%);
