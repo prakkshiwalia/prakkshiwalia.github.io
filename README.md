@@ -1,1 +1,1 @@
-Hey there! Check out https://www.prakkshiwalia.github.io
+Hey there! Check out prakkshiwalia.github.io
