@@ -399,6 +399,10 @@ main {
 
 .social-item .social-link:hover { color: var(--light-gray); }
 
+.social-link ion-icon {
+  color: #181c1f;
+}
+
 /*-----------------------------------*\
   #NAVBAR
 \*-----------------------------------*/
@@ -445,7 +449,7 @@ main {
 
 .about-text {
   color: var(--light-gray);
-  font-size: var(--fs-6);
+  font-size: 7px;
   font-weight: var(--fw-300);
   line-height: 1.6;
 }
