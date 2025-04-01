@@ -2104,3 +2104,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   transform: translateY(-2px);  /* Slight upward motion */
 }
 
+.blog-text a:link,
+.blog-text a:visited,
+.blog-text a:hover,
+.blog-text a:active {
+  color: black;
+  text-decoration: none;
+  font-size: 0.9em; /* if you still want smaller size */
+}
