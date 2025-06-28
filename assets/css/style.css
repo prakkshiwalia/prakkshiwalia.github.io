@@ -1364,7 +1364,11 @@ margin-bottom: 30px;
   transition: var(--transition-1);
 }
 
-.blog-post-item > a:hover .blog-item-title { color: var(--orange-yellow-crayola); }
+/* .blog-post-item > a:hover .blog-item-title { color: var(--orange-yellow-crayola); }*/
+
+.blog-post-item:hover .blog-item-title {
+  color: var(--orange-yellow-crayola);
+}
 
 .blog-text {
   color: var(--light-gray);
